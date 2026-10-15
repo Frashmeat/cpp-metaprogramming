@@ -1,0 +1,4 @@
+interface:
+  display_name: "C++ 元编程"
+  short_description: "按场景选择与组合 C++ 元编程技巧，说明使用方式、目的与收益"
+  default_prompt: "使用 $cpp-metaprogramming，根据功能职责和项目工具链选择元编程技巧，说明使用方式、场景、目的、收益及必要的组合验证。"
